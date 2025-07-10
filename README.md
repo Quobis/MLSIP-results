@@ -20,4 +20,4 @@ Para alcanzar este objetivo, MLSIP pretende implementar un módulo de conectivid
 @ Quobis Networks SLU. 2025. Todos los derechos reservados. La plataforma de
 comunicaciones de Quobis y sus marcas relacionadas, son marcas comerciales de
 Quobis. Todas las otras marcas registradas mencionadas son propiedad de sus
-respectivos fabricantes. El contenido de este documento es confidencial.
+respectivos fabricantes. El contenido de este documento es público.
