@@ -69,6 +69,10 @@ La siguiente tabla resume los resultados alcanzados en cada escenario de prueba:
 |INVITE con destino +33 (Francia)   | 500            | 449               | 89.8%                 |
 |INVITE con destino +35 (Portugal)  | 500            | 447               | 89.4%                 |
 
+De acuerdo con los resultados, el sistema MLSIP demuestra un alto porcentaje de acierto en la selección de rutas, lo que confirma la validez del enfoque adoptado para el entrenamiento y la toma de decisiones en tiempo real. Cabe destacar que las rutas tienen asociado un porcentaje de error, por lo que, aún escogiendo la ruta más adecuada en cada caso, es posible que la llamada sea rechazada.
+
+No obstante, estos resultados mejorarían considerablemente con el uso de datos reales de operadores, ya que los patrones de telefonía real son bastante predecibles.
+
 ## Copyright
 
 @ Quobis Networks SLU. 2025. Todos los derechos reservados. La plataforma de
